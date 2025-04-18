@@ -20,3 +20,9 @@
 
 - Si el límite es 100 caracteres, la capacidad es 100 caracteres.
   7 bits/carácter \* 100 caracteres = 700 bits.
+
+## Entropia y codificación mensaje
+
+- Fórmula de Shannon para entropía S = P \* Log2(1/P)
+
+- Y esta fórmula se utiliza por cada letra en el mensaje
